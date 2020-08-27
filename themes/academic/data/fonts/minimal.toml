@@ -1,0 +1,11 @@
+# Font style metadata
+name = "Minimal"
+
+# Optional Google font URL
+google_fonts = "Noto+Sans+JP:400,700|Roboto:400,400italic,700|Roboto+Mono"
+
+# Font families
+heading_font = "Noto Sans JP"
+body_font = "Noto Sans JP"
+nav_font = "Noto Sans JP"
+mono_font = "Roboto Mono"
