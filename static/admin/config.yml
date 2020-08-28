@@ -8,9 +8,11 @@ collections:
   - name: Blog
     label: blog
     label_singular: Blog
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-    folder: "content/post/{{slug}}"
-    media_folder: "content/post/{{slug}}"
+    folder: 'content/posts'
+    path: '{{year}}/{{month}}/{{day}}'
+    preview_path: posts/{{year}}/{{month}}/{{day}}
+    media_folder: ''
+    public_folder: ''
     create: true  # Allow users to create new documents in this collection
     fields:  # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}
