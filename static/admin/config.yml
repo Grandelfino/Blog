@@ -1,5 +1,5 @@
 backend:
-  name: github
+  name: git-gateway
   repo: Grandelfino/Blog
   branch: master
   create: 'Create {{collection}} “{{slug}}”'
