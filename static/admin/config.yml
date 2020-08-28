@@ -34,7 +34,7 @@ collections:
         required: false
         widget: object
         fields:
-          - label: "Upload an image named `featured.jpg/png`"
+          - label: "画像名は`featured.jpg` または`featured.png`にすること!"
             name: "filename"
             widget: "image"
             default: ""
