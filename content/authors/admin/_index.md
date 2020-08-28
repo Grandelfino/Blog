@@ -63,6 +63,3 @@ email: "grandelfino@kit.ac.jp"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 ---
-
-# 活動記録 - KIT Formula SAE Project Team ”Grandelfino”
-京都工芸繊維大学 学生フォーミュラプロジェクトチーム Grandelfinoの活動記録
