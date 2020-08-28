@@ -8,8 +8,7 @@ collections:
   - name: Blog
     label: blog
     label_singular: Blog
-    folder: 'content/post'
-    path: '{{slug}}/index'
+    folder: 'content/post/{{year}}/{{month}}/{{day}}/'
     create: true  # Allow users to create new documents in this collection
     fields:  # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}
