@@ -9,7 +9,7 @@ collections:
     label: blog
     label_singular: Blog
     folder: 'content/post'
-    path: '{{year}}/{{month}}/{{day}}/'
+    path: '{{year}}/{{month}}/{{day}}/index'
     preview_path: post/{{year}}/{{month}}/{{day}}
     media_folder: ''
     public_folder: ''
