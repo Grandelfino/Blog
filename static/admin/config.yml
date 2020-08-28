@@ -26,16 +26,17 @@ collections:
         name: "draft"
         widget: "boolean"
         default: false
-      - label: "Tags"
+      - label: "Tags(未分類, お知らせ, スポンサーシップ, パワートレイン, シャシ・フレーム, エアロ, 講習会, 走行会, 大会, 新入メンバー)"
         name: "tags"
         required: false
         widget: "list"
-      - label: "Featured Image"
+        default: "未分類"
+      - label: "サムネイル"
         name: "image"
         required: false
         widget: object
         fields:
-          - label: "Upload an image named `featured.jpg/png`"
+          - label: "`featured.jpg`または`featured.png`という名前にすること!"
             name: "filename"
             widget: "image"
             default: ""
@@ -43,4 +44,4 @@ collections:
               config:
                 multiple: false
           - {label: Caption, name: caption, widget: string, required: false}
-          - {label: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight., name: focal_point, widget: string, required: false, default: "Smart"}
+          # - {label: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight., name: focal_point, widget: string, required: false, default: "Smart"}
