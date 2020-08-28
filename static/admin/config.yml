@@ -1,3 +1,4 @@
+IntelliJ IDEAPhpStormWebStorm   
 backend:
   name: github
   repo: Grandelfino/Blog
@@ -24,22 +25,23 @@ collections:
         name: "draft"
         widget: "boolean"
         default: false
-      - label: "Tags(未分類, お知らせ, パワートレイン, シャシ・フレーム, スポンサー, エアロ, 講習会, 走行会, 大会, 新入メンバー)"
+      - label: "Tags"
         name: "tags"
         required: false
         widget: "list"
-        default: "未分類"
       - label: "Featured Image"
         name: "image"
         required: false
         widget: object
         fields:
-          - label: "画像名は`featured.jpg` または`featured.png`にすること!"
+          - label: "Upload an image named `featured.jpg/png`"
             name: "filename"
             widget: "image"
-            default: ""
+            default: "featured"
             media_library:
               config:
                 multiple: false
           - {label: Caption, name: caption, widget: string, required: false}
-          - {label: "Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.", name: focal_point, widget: string, required: false, default: "Smart"}
+          - {label: Description for screen readers, name: alt_text, widget: string, required: false}
+          - {label: "Where's the focal point in the image? Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.", name: focal_point, widget: string, required: false, default: "Smart"}
+          - {label: Thumbnail Only?, name: preview_only, widget: boolean, default: false}
