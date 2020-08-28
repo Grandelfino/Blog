@@ -1,7 +1,14 @@
 backend:
-  name: github
+  name: git-gateway
   repo: Grandelfino/Blog
   branch: master
+  create: 'Create {{collection}} “{{slug}}”'
+  update: 'Update {{collection}} “{{slug}}”'
+  delete: 'Delete {{collection}} “{{slug}}”'
+  uploadMedia: '[skip ci] Upload “{{path}}”'
+  deleteMedia: '[skip ci] Delete “{{path}}”'
+
+local_backend: true
 locale: ja
 media_folder: 'static/media/'
 public_folder: '/public'
@@ -32,13 +39,11 @@ collections:
         widget: "list"
       - label: "サムネイル"
         name: "image"
-        required: false
         widget: object
         fields:
           - label: "`featured.jpg`または`featured.png`という名前にすること!"
             name: "filename"
             widget: "image"
-            default: ""
             required: false
             media_library:
               config:
