@@ -30,7 +30,6 @@ collections:
         name: "tags"
         required: false
         widget: "list"
-        default: "未分類"
       - label: "サムネイル"
         name: "image"
         required: false
