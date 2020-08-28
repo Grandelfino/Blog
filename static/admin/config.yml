@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: mannjaro/grandelfino-blog
+  repo: Grandelfino/Blog
   branch: master
 media_folder: 'static/media/'
 public_folder: '/public'
