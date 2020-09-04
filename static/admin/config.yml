@@ -17,8 +17,8 @@ collections:
     label: blog
     label_singular: Blog
     folder: 'content/post'
-    path: '{{year}}/{{month}}/{{day}}/index'
-    preview_path: post/{{year}}/{{month}}/{{day}}
+    path: '{{year}}/{{month}}/{{day}}/{{hour}}_{{minute}}/index'
+    preview_path: post/{{year}}/{{month}}/{{day}}/{{hour}}_{{minute}}
     media_folder: ''
     public_folder: ''
     create: true  # Allow users to create new documents in this collection
@@ -32,7 +32,7 @@ collections:
         name: "draft"
         widget: "boolean"
         default: false
-      - label: "Tags(未分類, お知らせ, スポンサーシップ, パワートレイン, シャシ・フレーム, エアロ, 講習会, 走行会, 大会, 新入メンバー)"
+      - label: "Tags(未分類, お知らせ, スポンサーシップ, パワートレイン, シャシ・フレーム, エアロ, 講習会, 走行会, 大会, 新入メンバー)半角コンマ区切りで増やせます"
         name: "tags"
         required: false
         widget: "list"
@@ -40,7 +40,7 @@ collections:
         name: "image"
         widget: object
         fields:
-          - label: "`featured.jpg`または`featured.png`という名前にすること!"
+          - label: "サムネ用画像`featured.jpg`または`featured.png`という名前にすること!"
             name: "filename"
             widget: "image"
             required: false
