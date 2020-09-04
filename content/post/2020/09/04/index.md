@@ -6,7 +6,7 @@ tags:
   - 未分類
   - お知らせ
 image:
-  filename: favicon.png
+  filename: featured.jpg
   caption: logo
 ---
 あああああ
@@ -15,4 +15,4 @@ image:
 
 Text: Sample
 
-``[`Grandelfino - Home`](https://grandelfino.net)``
+[Grandelfino - Home](http://www.grandelfino.net)
