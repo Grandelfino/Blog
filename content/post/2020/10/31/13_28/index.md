@@ -1,7 +1,7 @@
 ---
 title: 活動再開のお知らせ
 date: 2020-10-31T13:09:02.027Z
-draft: true
+draft: false
 tags:
   - お知らせ
 image:
