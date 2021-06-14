@@ -1,7 +1,7 @@
 ---
 title: 先日コストレポートの提出が完了しました！
 date: 2021-06-10T09:20:06.141Z
-draft: true
+draft: false
 tags:
   - コストレポート
 ---
