@@ -17,4 +17,16 @@ tags:
 
 今後はストーブリ株式会社様ご支援頂いたクイックコネクタを活かしつつ，走行試験によって従来品との比較を行いながら，全開走行での制動力や耐久性を確認し，日本大会で初となる(弊チーム調べ)オリジナルブレーキキャリパ搭載を目指して活動して参ります．
 
+[HILLTOP(ヒルトップ)株式会社様](https://hilltop21.co.jp/)
+
+[株式会社有田製作所様](http://arita-fct.com/)
+
+[ストーブリ株式会社様](https://www.staubli.com/ja-jp/japan/)
+
+[株式会社プロジェクトミュー様](https://www.project-mu.co.jp/ja/)
+
+[株式会社アドビックス様](http://www.advics.co.jp/)
+
+
+
 Text : Koki Matsumoto
