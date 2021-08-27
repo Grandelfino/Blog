@@ -1,7 +1,7 @@
 ---
 title: ミニカー講習が終了しました
 date: 2021-08-27T02:15:38.674Z
-draft: false
+draft: true
 tags:
   - ミニカー講習
 ---
