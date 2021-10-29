@@ -1,7 +1,7 @@
 ---
 title: パーツプレゼンを行いました
 date: 2021-10-29T05:19:36.136Z
-draft: true
+draft: false
 ---
 ![](screenshot_20211029_141805.jpg)
 
