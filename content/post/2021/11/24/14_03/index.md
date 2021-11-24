@@ -1,5 +1,5 @@
 ---
-title: 松ヶ崎祭が行いました
+title: 松ヶ崎祭が行われました
 date: 2021-11-24T13:54:38.359Z
 draft: true
 tags:
