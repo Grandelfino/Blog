@@ -15,6 +15,6 @@ tags:
 
 トータルテクニカルソリューションズ株式会社様、今後ともよろしくお願いします！
 
-[トータルテクニカルソリューションズ株式会社様](https://www.t-t-s.jp/ceo)
+[トータルテクニカルソリューションズ株式会社様](https://www.t-t-s.jp/category/kaihatsujisseki)
 
 Text:Hujita Hiroshi
