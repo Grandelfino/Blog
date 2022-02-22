@@ -2,6 +2,9 @@
 title: KW社様よりダンパーを協賛価格にてご提供いただきました！
 date: 2022-02-17T03:48:18.388Z
 draft: false
+tags:
+  - ダンパー
+  - シャシ
 ---
 ![](s__6897670.jpg)
 
@@ -17,4 +20,6 @@ KW社様には過去にもダンパーの提供やダンパーのオーバーホ
 
 今後ともGrandelfinoをよろしくお願いいたします．　
 
-Text:Onishi Kentaro
+[KW社様](http://www.kwsuspensions.jp/)
+
+Text: Onishi Kentaro
