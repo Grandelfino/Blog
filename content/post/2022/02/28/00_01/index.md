@@ -2,6 +2,9 @@
 title: 上野鉄工株式会社様から端面処理のご支援をして頂きました
 date: 2022-02-27T23:52:42.472Z
 draft: false
+tags:
+  - フレーム
+  - 上野鉄工株式会社様
 ---
 ![](1646006198867.jpg)
 
@@ -17,6 +20,6 @@ draft: false
 
 今後ともgrandelfinoをよろしくお願いいたします．
 
-[上野鉄鋼株式会社様](https://www.uenotekko.co.jp/)
+[上野鉄工株式会社様](https://www.uenotekko.co.jp/)
 
 Text:Nishimura Nanaka
