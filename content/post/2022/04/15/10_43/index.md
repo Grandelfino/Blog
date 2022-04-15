@@ -1,7 +1,7 @@
 ---
 title: 新入生歓迎の時期です
 date: 2022-04-15T10:40:40.086Z
-draft: true
+draft: false
 tags:
   - 新入生歓迎
 ---
