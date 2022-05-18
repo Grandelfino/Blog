@@ -20,4 +20,4 @@ tags:
 
 [ZEAL by TS-SUMIYAMA様](https://tss-zeal.com/)
 
-Text : Yoshimura Kazuma
+Text : Kazuma Yoshimura
