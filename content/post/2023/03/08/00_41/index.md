@@ -19,4 +19,4 @@ tags:
 
 T﻿ext:
 
-[](https://www.hopec.jp/)
+[](https://www.hopec.jp/)[](https://www.hopec.jp/)
