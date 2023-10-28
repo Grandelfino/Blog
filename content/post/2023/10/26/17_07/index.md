@@ -1,7 +1,7 @@
 ---
 title: クラウドファンディングのご報告
 date: 2023-10-26T17:01:03.559Z
-draft: true
+draft: false
 tags:
   - お知らせ
   - スポンサーシップ
