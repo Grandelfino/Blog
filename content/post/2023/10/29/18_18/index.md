@@ -1,7 +1,7 @@
 ---
 title: パーツプレゼンを行いました
 date: 2023-11-05T00:00:15.121Z
-draft: true
+draft: false
 tags:
   - パーツプレゼン
 ---
