@@ -1,7 +1,7 @@
 ---
 title: 11月24日から26日に松ヶ崎祭があります
 date: 2023-11-21T00:20:56.891Z
-draft: true
+draft: false
 tags:
   - マシン展示
   - 松ヶ崎祭
