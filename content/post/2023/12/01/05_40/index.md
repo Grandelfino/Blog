@@ -1,7 +1,7 @@
 ---
 title: 松ヶ崎祭がありました
-date: 2023-12-01T05:13:24.405Z
-draft: true
+date: 2023-12-08T00:00:57.277Z
+draft: false
 tags:
   - 松ヶ崎祭
   - 総合優勝
